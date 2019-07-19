@@ -1,0 +1,16 @@
+#main {
+  font-size: 50px;
+  color: Black;
+  border: 3px solid yellow;
+}
+
+#footer {
+  color: red;
+  font-size: 11px;
+  background-color: blue;
+}
+
+.class {
+  margin: 20px 10px 10px 30px;
+  background-color: yellow;
+}
